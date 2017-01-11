@@ -4,8 +4,8 @@ results = {}
 def pattern(string, digit):
     if digit == 10:
         res = eval(string)
+        global results
         if 1 <= res <= 11111 and res not in results:
-            global results
             results[res] = string
             print("(" + str(len(results)) + ")", string, "=", res)
 

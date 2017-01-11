@@ -16,3 +16,5 @@ I thought I could write a quick python program to do this.
 
 And I found representations for about 6,280 numbers. I don't have the entire list
 probably because I haven't included parantheses?
+
+Check out the [output](output) file.

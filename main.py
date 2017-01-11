@@ -1,4 +1,4 @@
-intermediaries = ["", "+", "-", "*", "^"]
+intermediaries = ["", "+", "-", "*"]
 results = {}
 
 def pattern(string, digit):
